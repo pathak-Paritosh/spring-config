@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to my cards application PROD APIs"
+  contactDetails:
+    name: "Monu Pathak"
+    email: "monu@gmail.com"
+  onCallSupport:
+    - (111) 212-9090
+    - (111) 212-2332

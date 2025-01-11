@@ -1,0 +1,15 @@
+my:
+  env:
+    myEnvVar: "Cards Microservice"
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to my cards application APIs"
+  contactDetails:
+    name: "Ratnesh Kumar"
+    email: "ratan@gmail.com"
+  onCallSupport:
+    - (111) 111-9090
+    - (111) 123-2332

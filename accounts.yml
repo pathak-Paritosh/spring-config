@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to my accounts application APIs"
+  contactDetails:
+    name: "Pratik"
+    email: "pratik@gmail.com"
+  onCallSupport:
+    - (555) 505-9090
+    - (555) 505-2332

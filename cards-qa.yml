@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to my cards application QA APIs"
+  contactDetails:
+    name: "Preeti Tiwari"
+    email: "preeti@gmail.com"
+  onCallSupport:
+    - (111) 123-9392
+    - (111) 123-7462

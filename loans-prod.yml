@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to my loans application prod APIs"
+  contactDetails:
+    name: "Hulash Kumar"
+    email: "hulash@gmail.com"
+  onCallSupport:
+    - (777) 777-1234
+    - (777) 623-1345

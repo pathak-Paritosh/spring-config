@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to my accounts application QA APIs"
+  contactDetails:
+    name: "Rahul"
+    email: "rahul@gmail.com"
+  onCallSupport:
+    - (555) 505-9090
+    - (555) 505-2332

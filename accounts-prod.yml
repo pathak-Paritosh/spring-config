@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to my accounts application PROD APIs"
+  contactDetails:
+    name: "Paul"
+    email: "paul@gmail.com"
+  onCallSupport:
+    - (555) 505-9090
+    - (555) 505-2332

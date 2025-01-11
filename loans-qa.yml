@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to my loans application QA APIs"
+  contactDetails:
+    name: "Ayush Pathak"
+    email: "ayush@gmail.com"
+  onCallSupport:
+    - (666) 666-1234
+    - (666) 623-1345
