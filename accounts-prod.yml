@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to my accounts application PROD APIs"
+  message: "Welcome to my accounts application PRODUCTION APIs"
   contactDetails:
     name: "Paul"
     email: "paul@gmail.com"
